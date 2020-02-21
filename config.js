@@ -1,16 +1,16 @@
 "use strict"
 
 module.exports = {
-  url: "https://devel",
-  title: "D Abig Show",
+  url: "https://dabigshow.ch",
+  title: "D'Abig Show",
   tagline: "Collaboration website für d abig show",
-  copyright: "© 2020 All rights reserved",
+  copyright: "© 2020 All rights reserved probably",
   author: {
-    name: "D'AS",
-    bio: "whisky aficionado???",
+    name: "DAS - D Abig Show",
+    bio: "whisky aficionado or maybe Rum???",
     contacts: {
       linkedin: "https://www.linkedin.com/",
-      github: "https://github.com/",
+      github: "https://github.com/DAbigShow/DAS_collab",
       stackoverflow:
         "https://stackoverflow.com/users/10262432/will-ward?tab=profile",
       freecodecamp: "https://www.freecodecamp.org/willjw3",
