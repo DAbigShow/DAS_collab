@@ -2,8 +2,7 @@ import React from "react";
 import {
     // FaLinkedin,
     FaGithubSquare,
-    // FaStackOverflow,
-    // FaFreeCodeCamp,
+    FaDiscord   , 
     FaTwitterSquare
 } from "react-icons/fa"
 
@@ -24,12 +23,12 @@ const MobileSocialLinks = ({ contacts }) => {
                     <FaGithubSquare size={26} style={{ color: "light" }} />
                 </span>
             </a>
-            {/* <a className="text-warning"
+            <a className="text-warning"
                 href={contacts.stackoverflow}>
-                <span title="Stack Overflow">
-                    <FaStackOverflow size={26} style={{ color: "warning" }} />
+                <span title="Discord">
+                    <FaDiscord size={26} style={{ color: "warning" }} />
                 </span>
-            </a> */}
+            </a>
             {/* <a className="text-success"
                 href={contacts.freecodecamp}>
                 <span title="freeCodeCamp">
