@@ -1,13 +1,25 @@
 ---
-title: 'Web Developer Blog - 0.1'
-tags: ["react", "vscode", "git", "css", "python", "ruby", "java", "angular", "html", "php", "mongodb", "graphql", "gatsby" ]
+tags:
+  - react
+  - vscode
+  - git
+  - css
+  - python
+  - ruby
+  - java
+  - angular
+  - html
+  - php
+  - mongodb
+  - graphql
+  - gatsby
 published: true
 date: '2018-08-20'
+title: 'Web Dev '
 ---
 
-Tech tags need to be done 
 <br>
 
-![](../src/images/gatsby-icon.png)
+![](../src/images/kitty.jpeg)
 
 Inline images in markdown supported as well, lovely
