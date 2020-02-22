@@ -1,7 +1,7 @@
 import PropTypes from "prop-types";
 import React from "react";
 
-import { FaTwitter, FaLinkedin, FaFacebook, FaEnvelope } from "react-icons/fa";
+import { FaTwitter, FaFacebook, FaEnvelope } from "react-icons/fa";
 import { ShareBlockStandard, ShareButtonIconOnly } from "react-custom-share";
 
 const CustomShareBlock = props => {
@@ -13,7 +13,7 @@ const CustomShareBlock = props => {
         buttons: [
             { network: "Twitter", icon: FaTwitter },
             { network: "Facebook", icon: FaFacebook },
-            { network: "Linkedin", icon: FaLinkedin },
+            // { network: "Linkedin", icon: FaLinkedin },  - import as well
             { network: "Email", icon: FaEnvelope }
         ],
         text: title,
@@ -22,7 +22,7 @@ const CustomShareBlock = props => {
     return (
         <div className="mt-4">
             <ShareBlockStandard {...shareBlockProps} />
-            <p className="text-center"><i>If you like it, share it!</i></p>
+            <p className="text-center"><i>Share ?</i></p>
         </div>
     )
 };
@@ -34,7 +34,8 @@ CustomShareBlock.propTypes = {
 };
 
 CustomShareBlock.defaultProps = {
-    url: "https://mywebsite.com/page-to-share/",
+    // url: "https://mywebsite.com/page-to-share/",
+    url: "https://dabigshow.ch",
     title: "Default value of title",
     siteName: "Default value of excerpt"
 };

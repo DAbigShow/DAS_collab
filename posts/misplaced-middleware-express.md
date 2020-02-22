@@ -1,6 +1,6 @@
 ---
 title: 'Langer Post - mit unnötig code'
-tags: ["nodejs", "graphql"]
+tags: ["nodejs", "graphql", "test", "something", "anything"]
 published: true
 date: '2018-12-29'
 ---

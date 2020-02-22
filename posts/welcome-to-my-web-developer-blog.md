@@ -4,8 +4,8 @@ tags: ["react", "vscode", "git", "css", "python", "ruby", "java", "angular", "ht
 published: true
 date: '2018-08-20'
 ---
-
-Tech tags need to be done 
+ 
+ yes this is nothing
 <br>
 
 ![](../src/images/gatsby-icon.png)

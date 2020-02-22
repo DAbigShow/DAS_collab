@@ -50,6 +50,17 @@ klick uf publish zums speichere
 To make a new tag, create a new "label" in `config.js`, find a suitable svg icon, and paste the svg path in as the value for the "name" property of the label. Have a look at the existing labels in the `config.js` file and all should soon be clear. A good place to look for svg icons is at [simple icons](https://simpleicons.org/).
 
 Ihr bruched de Path code - > name: "dä path",  Komma nöd vergesse
-zum de path becho brucheder entweder ink scape, Illustrator ...  TBD
+zum de path becho brucheder entweder ink scape, Illustrator oder irgend n text editor zum d svg aluege
+
+ihr bruched the langi code nach path wo mit M afangt.  ohni " "
 
 S isch wichtig das the path i 1 single "string" isch - suscht funktioniert das nöd mit path - simpleicons hed genau die Icons wo nur 1 Farb hend wo mer d farb im code manipuliere chönd.
+
+denn bi config.js datei / file irgend n platz sueche. 
+
+kopier s bestehends { ___tag__tech__name__etc. }
+tag = so muss s im post erwähnt werde
+tech = name vom tag - wird näbed m Icon azeigt
+name = "M123.321 1.312.....",    komma nöd vergesse
+size = grössi (eigentlich immer gliich)
+color = farb...  - "https://docs.microsoft.com/en-us/uwp/api/Windows.UI.Colors"

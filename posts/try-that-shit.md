@@ -1,6 +1,6 @@
 ---
 tags:
-  ["git", "world", "random"]
+  ["git", "world", "dlt"]
 published: true
 date: 2020-02-21T18:26:21.118Z
 title: 'Hello world - Das isch post nr. 1 ... also n test '
@@ -13,18 +13,16 @@ aber au alles andere
 Muss natürlich alles na chli besser erchlärt werde und ich muss na die Tags fixxe
 
 
-Markdown files - that's going to be fun  (Text syntax für Links und Bilder usw.)
+Markdown files - fun  (Text syntax für Links und Bilder usw.)
 
-alles nöd so kompliziert anschinend 
+alles nöd so kompliziert anschinend - besseri aleitig uf github
 
 ```
 this is the first post published - feel free to add random
 ```
 
 
-So this is a site in progress - 
-
-mer cha mich unter 079 201 68 03 erreiche 
+So this is a site in progress - join the discord server 
 
 mfg Ray
 
