@@ -1,8 +1,16 @@
 ---
+<<<<<<< HEAD
 title: 'Langer Post - mit unnötig code'
 tags: ["nodejs", "graphql", "test", "something", "anything"]
 published: true
+=======
+tags:
+  - nodejs
+  - graphql
+published: false
+>>>>>>> b69ce4144e668f3cf694b104a7dfef7973015eaf
 date: '2018-12-29'
+title: Langer Post - mit unnötig code
 ---
 
 ***Randomness kursiv***
