@@ -52,10 +52,10 @@ const Layout = ({ children }) => {
             <footer className="text-center">
               <hr/>
               <p className="d-inline">© {new Date().getFullYear()} </p>
-              <p className="mt-5 text-muted d-inline"><i> Built with
+              {/* <p className="mt-5 text-muted d-inline"><i> Built with
                             {` `}
                 <a className="text-info" href="https://www.gatsbyjs.org">Gatsby</a></i>
-              </p>
+              </p> */}
             </footer>
           </div>
         </>

@@ -6,7 +6,7 @@ import { FaEarlybirds } from "react-icons/fa"
 import "./index.css"
 
 import Sidebar from "../components/sidebar/Sidebar"
-import TechTag from "../components/tags/TechTag"
+// import TechTag from "../components/tags/TechTag"
 
 const AboutPage = (props) => {
     const labels = props.data.site.siteMetadata.labels
@@ -41,9 +41,9 @@ const AboutPage = (props) => {
                             <span className="text-success d-inline-block" title="blazing">
                                 <FaEarlybirds size={26} style={{ color: "danger" }} />
                             </span>
-                            <p className="d-inline-block ml-3 w-75 align-top">Open Source & Independence</p>
+                            <p className="d-inline-block ml-3 w-75 align-top">Open Source & Independence Reporting ...</p>
                         </div>
-                        <div>
+                        {/* <div>
                             <span className="text-success d-inline-block" title="tags">
                                 <FaEarlybirds size={26} style={{ color: "success" }} />
                             </span>
@@ -54,26 +54,33 @@ const AboutPage = (props) => {
                                 <TechTag tag="html" tech="HTML" name={tags["html"]} size={20} color="darkorange" />
                                 <TechTag tag="css" tech="CSS" name={tags["css"]} size={20} color="teal" />
                             </div>  
-                        </div>
+                        </div> */}
                         <div className="mt-4">
                             <span className="text-success d-inline-block" title="prism">
                                 <FaEarlybirds size={26} style={{ color: "success" }} />
                             </span>
-                            <p className="d-inline-block ml-3 w-75 align-top">S söll witzig & informativ sie</p>
+                            <p className="d-inline-block ml-3 w-75 align-top">S söll witzig + informativ sie </p>
                         </div>
                         <div>
                             <span className="text-success d-inline-block" title="icons">
                                 <FaEarlybirds size={26} style={{ color: "success" }} />
                             </span>
-                            <p className="d-inline-block ml-3 w-75 align-top">Ihr lerned was über Blockchain & IT collaboration tools (Github)</p>
+                            <p className="d-inline-block ml-3 w-75 align-top">Ihr lerned was über Blockchain </p>
                         </div>
                         <div>
                             <span className="text-success d-inline-block" title="mobile">
                                 <FaEarlybirds size={26} style={{ color: "success" }} />
                             </span>
-                            <p className="d-inline-block ml-3 w-75 align-top">Revolution of our time, =) or whatever</p>
+                            <p className="d-inline-block ml-3 w-75 align-top">Peer review macht din schribstil besser </p>
                         </div>
                     </div>
+                    <br></br>
+
+                    <p> Aleitig wie n post chasch dezue tue heds uf GitHub </p>
+
+                    <br></br>
+                    <p>S hed e telegram gruppe & n discord server wo mer cha mit enand schribe</p>
+
                 </div>
             </div>
         </Layout>

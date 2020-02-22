@@ -15,7 +15,7 @@
 **Creating Blog Posts with the CMS**
 - Go to `dabigshow.ch/admin` and log in. - Zerst bruchsch n invite wo mer dir a dini email schicked
 - Fill in the fields:
-  - TAGS: enter in tag names separated by commas and spaces. Ex: `gatsby, graphql, pollution, healthcare, ` etc.
+  - TAGS: enter in tag names separated by commas and spaces. Ex: `gatsby, graphql, pollution, healthcare, ` etc. 
   - PUBLISHED: toggle the switch to the on position if you want to publish to the live website.
   - DATE: leave the current date and time, or click to bring up the date picker.
   - TITLE: enter your post's title. Ex: `My First Post` `ninja monkeys found in the amazone` etc.
@@ -27,7 +27,7 @@
 
 Login bi /admin - aber zerst bruchsch n invite wo ich dir a dini email schicke
 
-- Tags: wie n HashTag # `eskalation`, `Umweltverschmutzung` etc. 
+- Tags: wie n HashTag # `eskalation`, `umweltverschmutzung`, `solar` etc. 
 2, 3, Tags passed
 
 ( - Suech der passendi Icons für de Tag bi [simple icons](https://simpleicons.org/). und gib im Discord oder Telegram de Link und de Tag dure damit ich n in code cha tue oder mach n pull request  =)

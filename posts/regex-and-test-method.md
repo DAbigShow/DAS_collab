@@ -1,5 +1,5 @@
 ---
-title: 'JavaScript Regular Expressions and the Test() Method'
+title: 'Example -> Testing() MarkDown'
 tags: ["javascript"]
 published: true
 date: '2019-01-06'
