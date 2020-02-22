@@ -7,7 +7,7 @@ const MobilePages = () => {
             <div className="text-center">
                 <p className="d-inline p-4"><Link to="/"><span className="text-dark">Home</span></Link></p>
                 <p className="d-inline p-4"><Link to="/about"><span className="text-dark">About</span></Link></p>
-                <p className="d-inline p-4"><Link to="/archive"><span className="text-dark">Posts</span></Link></p>
+                <p className="d-inline p-4"><Link to="/posts"><span className="text-dark">Posts</span></Link></p>
             </div>
         </div>
     )
