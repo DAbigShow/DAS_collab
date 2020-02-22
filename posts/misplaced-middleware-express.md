@@ -1,8 +1,10 @@
 ---
-title: 'Langer Post - mit unnötig code'
-tags: ["nodejs", "graphql"]
-published: true
+tags:
+  - nodejs
+  - graphql
+published: false
 date: '2018-12-29'
+title: Langer Post - mit unnötig code
 ---
 
 ***Randomness kursiv***
