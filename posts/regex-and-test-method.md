@@ -1,8 +1,9 @@
 ---
-title: 'Example -> Testing() MarkDown'
-tags: ["javascript"]
-published: true
+tags:
+  - javascript
+published: false
 date: '2019-01-06'
+title: Example -> Testing() MarkDown
 ---
 
 [Video at YouTube](https://youtu.be/vAP8NLDzGwc). <br>
